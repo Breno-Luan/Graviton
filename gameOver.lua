@@ -1,0 +1,1 @@
+textScore = display.newText( "Potuação: "..100, 0, 0, "Helvetica", 30 )
